@@ -27,7 +27,7 @@ Este aplicativo foi concebido como uma verdadeira **peça de design temático**,
 
 A inspiração parte diretamente da estética **renascentista e clássica**, com referências à arquitetura, às pinturas, às esculturas e à história milenar italiana.
 
-Cada escolha de cor, ícone e composição visual foi pensada para criar um ambiente que remete ao universo das **galerias de arte, dos palácios, dos museus a céu aberto e das praças que testemunham séculos de história viva.**
+Cada escolha de cor, ícone e composição visual foi pensada para criar um ambiente que remete ao universo das **galerias de arte, dos palácios, dos museus a céu aberto e das praças que testemunham séculos de história viva.** Não foi possível implementar completamente os Elementos de Design e Estilo nesta versão, devido ao prazo de entrega do trabalho.
 
 ---
 
@@ -39,7 +39,7 @@ Cada escolha de cor, ícone e composição visual foi pensada para criar um ambi
 - **Texto:** Uma narração poética, que não se limita a informar, mas convida o usuário a mergulhar em uma jornada sensorial pela Itália.
 
 🏛️✨ **Tudo no app busca transmitir a monumentalidade, a imponência e o encanto quase ritualístico que é estar na Itália.**  
-> Uma terra onde cada pedra conta uma história, cada receita é um legado, e cada olhar é preenchido por uma beleza que transcende o tempo. não foi possível implementar completamente os Elementos de Estilo nesta versão, devido ao prazo de entrega do trabalho.
+> Uma terra onde cada pedra conta uma história, cada receita é um legado, e cada olhar é preenchido por uma beleza que transcende o tempo. 
 
 ---
 
@@ -136,5 +136,5 @@ Este projeto foi desenvolvido com fins educacionais, como parte de um desafio ac
 💻 Desenvolvido por
 Sara Lopes — Aluna do curso de Análise e Desenvolvimento de Sistemas
 
-🔗 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 
