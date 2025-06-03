@@ -39,7 +39,7 @@ Cada escolha de cor, ícone e composição visual foi pensada para criar um ambi
 - **Texto:** Uma narração poética, que não se limita a informar, mas convida o usuário a mergulhar em uma jornada sensorial pela Itália.
 
 🏛️✨ **Tudo no app busca transmitir a monumentalidade, a imponência e o encanto quase ritualístico que é estar na Itália.**  
-Uma terra onde cada pedra conta uma história, cada receita é um legado, e cada olhar é preenchido por uma beleza que transcende o tempo. não foi possível implementar completamente os Elementos de Estilo nesta versão, devido ao prazo de entrega do trabalho.
+> Uma terra onde cada pedra conta uma história, cada receita é um legado, e cada olhar é preenchido por uma beleza que transcende o tempo. não foi possível implementar completamente os Elementos de Estilo nesta versão, devido ao prazo de entrega do trabalho.
 
 ---
 
@@ -98,14 +98,14 @@ Uma terra onde cada pedra conta uma história, cada receita é um legado, e cada
 ---
 
 ## 🗂️ Estrutura do Projeto
-
+```bash
 📁 guia-turistico-italia
 ┣ 📁 src
 ┃ ┣ 📁 components → Telas principais do app
 ┃ ┗ 📁 img → Imagens, ícones e arquivos estáticos
 ┣ App.js → Arquivo principal
 ┗ README.md → Este documento
-
+```
 ---
 
 ## 🔧 Como Executar
